@@ -2,7 +2,7 @@
 
 
 ## Description
-This is a python implementation of the paper [Be Your Own Prada: Fashion Synthesis with Structural Coherence] (https://arxiv.org/pdf/1710.07346.pdf), using the Pytorch library.
+This is a python implementation of the paper [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/pdf/1710.07346.pdf), using the Pytorch library.
 
 DeepFashion is a project that focuses on creating fashion synthesis with structural coherence. This is done by using a stackedGAN together with a text encoder, which is build on a RNN architecture. 
 
