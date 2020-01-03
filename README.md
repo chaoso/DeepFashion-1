@@ -7,7 +7,7 @@ This is a python implementation of the paper [Be Your Own Prada: Fashion Synthes
 DeepFashion is a project that focuses on creating fashion synthesis with structural coherence. This is done by using a stackedGAN together with a text encoder, which is build on a RNN architecture. 
 
 ## Acknowledgement
-The inspiration for this work is based on the paper [Be Your Own Prada: Fashion Synthesis with Structural Coherence] by Zhuet.  al. Addtionally, the data used in this work is from the DeepFashion dataset.  
+The inspiration for this work is based on the paper Be Your Own Prada: Fashion Synthesis with Structural Coherence by Zhuet.  al. Addtionally, the data used in this work is from the [DeepFashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html).  
 
 ## Dependencies
 Since the data used for this project has size of 17 GB, we have not uploaded it on Github. Please download the data on the following link: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html
